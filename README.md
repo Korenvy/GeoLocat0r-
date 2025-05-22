@@ -20,8 +20,9 @@ _________________
 
 # INSTALACION
 ```bash
-git clone https://github.com/Korenvy/GeoLocat0r/
-
+git clone https://github.com/Korenvy/GeoLocat0r-.git
+cd GeoLocat0r
+chmod +x GeoLocat0r.sh
 ./GeoLocat0r.sh
 
 # ⚠️ ADVERTENCIA ⚠️
