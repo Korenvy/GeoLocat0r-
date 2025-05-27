@@ -1,3 +1,4 @@
+![GeoLocat0r Logo](./file_000000004f6461f8b150cd58f9f5aaf3.png)
 # GeoLocat0r-
 GeoLocat0r Busca a todos por su ip | Korenvy
 
